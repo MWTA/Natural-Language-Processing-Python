@@ -1,0 +1,1136 @@
+onfig key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="6"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="P%%65533blica Federal"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Privada sem fins lucrativos"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="P%%65533blica Estadual"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="P%%65533blica Municipal"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Especial"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Privada com fins lucrativos"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_7">
+<entry key="column_name" type="xstring" value="CO_ORGANIZACAO_ACADEMICA"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="5"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_8">
+<entry key="column_name" type="xstring" value="DS_ORGANIZACAO_ACADEMICA"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="5"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Universidade"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Faculdade"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Centro Universit%%65533rio"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Centro Federal de Educa%%65533%%65533o Tecnol%%65533gica"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Instituto Federal de Educa%%65533%%65533o, Ci%%65533ncia e Tecnologia"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_9">
+<entry key="column_name" type="xstring" value="CO_MUNICIPIO_IES"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1100023"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="5300108"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_10">
+<entry key="column_name" type="xstring" value="NO_MUNICIPIO_IES"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_11">
+<entry key="column_name" type="xstring" value="CO_UF_IES"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="11"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="53"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_12">
+<entry key="column_name" type="xstring" value="SGL_UF_IES"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="27"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="MT"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="DF"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="SE"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="AM"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="MG"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="PR"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="PE"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RS"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RJ"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="SP"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="BA"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="CE"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="AL"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="PA"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="SC"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="GO"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RN"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="ES"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="PB"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="MS"/>
+</config>
+</config>
+<config key="20">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="TO"/>
+</config>
+</config>
+<config key="21">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RO"/>
+</config>
+</config>
+<config key="22">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="AC"/>
+</config>
+</config>
+<config key="23">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="MA"/>
+</config>
+</config>
+<config key="24">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="PI"/>
+</config>
+</config>
+<config key="25">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="AP"/>
+</config>
+</config>
+<config key="26">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RR"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_13">
+<entry key="column_name" type="xstring" value="NO_REGIAO_IES"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="5"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Centro-Oeste"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Nordeste"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Norte"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Sudeste"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Sul"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_14">
+<entry key="column_name" type="xstring" value="IN_CAPITAL_IES"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_15">
+<entry key="column_name" type="xstring" value="QT_TEC_TOTAL"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="17661"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_16">
+<entry key="column_name" type="xstring" value="QT_TEC_FUND_INCOMP_FEM"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" va    <C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/localedata.jar  U«À ; 1C:/Program Files/Java/jdk1.8.0_92/jre/lib/jfr.jar  U«¦Éø 2C:/Program Files/Java/jdk1.8.0_92/jre/lib/jsse.jar  U«§ýï ;C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/sunmscapi.jar  U«ž»¦ AC:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/sunjce_provider.jar  U«¢|v 7C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/jfxrt.jar  U¬³Ò¤ 9C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/nashorn.jar  U«½	ã ;C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/sunpkcs11.jar  U«¢‚ 1C:/Program Files/Java/jdk1.8.0_92/jre/lib/jce.jar  U«ŸýE 0C:/Program Files/Java/jdk1.8.0_92/jre/lib/rt.jar  U¯d(  7C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/zipfs.jar  U«ŸHó 7C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/sunec.jar  U«ž× 6C:/Program Files/Java/jdk1.8.0_92/jre/lib/charsets.jar  U«Í‚ :C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/cldrdata.jar  U«Ù"G 7C:/Program Files/Java/jdk1.8.0_92/jre/lib/resources.jar  U«Óxó 7C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/dnsns.jar  U«žZ{ BC:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/access-bridge-64.jar  U«¡h 9C:/Program Files/Java/jdk1.8.0_92/jre/lib/ext/jaccess.jar  U«žè                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ed;2;0.0
+wha;3;0.001
+al;2;0.0
+front;2;0.0
+firm;1;0.0
+dough;3;0.001
+booster;1;0.0
+busy;1;0.0
+Sonny;1;0.0
+gate;1;0.0
+movin;2;0.0
+hallway;1;0.0
+Manchester;1;0.0
+seven;1;0.0
+Fo;1;0.0
+grey;2;0.0
+lunch;1;0.0
+Tots;1;0.0
+Posh;2;0.0
+zero;1;0.0
+dustbin;1;0.0
+Harold;2;0.0
+part;1;0.0
+Simba;1;0.0
+someone;1;0.0
+stickin;1;0.0
+whoopsie;1;0.0
+Emma;2;0.0
+Dinatron;1;0.0
+marble;1;0.0
+Wheels;1;0.0
+Alfie;1;0.0
+plaster;1;0.0
+Devil;1;0.0
+Disney;1;0.0
+lip;1;0.0
+sleepin;2;0.0
+loss;1;0.0
+vix;1;0.0
+seventy;1;0.0
+Backham;1;0.0
+Hooks;1;0.0
+durin;1;0.0
+ale;1;0.0
+hungry;2;0.0
+boyfriend;1;0.0
+security;1;0.0
+church;1;0.0
+Mowgli;1;0.0
+chip;1;0.0
+mister;2;0.0
+chili;1;0.0
+lace;1;0.0
+muck;1;0.0
+Christophers;1;0.0
+whoo;1;0.0
+stack;1;0.0
+hop;3;0.001
+puppy;2;0.0
+snowman;1;0.0
+Glen;1;0.0
+piggy;1;0.0
+ee;2;0.0
+snakie;1;0.0
+shoppin;2;0.0
+tic;1;0.0
+forty;1;0.0
+Henry;1;0.0
+hers;1;0.0
+kite;2;0.0
+zzz;1;0.0
+First;3;0.001
+cushion;1;0.0
+nit;1;0.0
+clause;1;0.0
+elephant;2;0.0
+Grandma;1;0.0
+ni;1;0.0
+spit;2;0.0
+grill;1;0.0
+sweety;1;0.0
+meatball;1;0.0
+mirror;1;0.0
+ano;4;0.001
+quick;2;0.0
+rescue;1;0.0
+yeek;1;0.0
+sugar;1;0.0
+suppose;3;0.001
+soakin;2;0.0
+Annalise;1;0.0
+Diplocus;1;0.0
+holdin;2;0.0
+beep;2;0.0
+everybody;1;0.0
+mousie;1;0.0
+Aladdin;1;0.0
+driver;1;0.0
+life;1;0.0
+fallin;3;0.001
+bun;1;0.0
+definitely;1;0.0
+pension;1;0.0
+juggle;1;0.0
+as_soon_as;1;0.0
+mend;1;0.0
+helper;1;0.0
+Goldielocks;2;0.0
+Playdoh;1;0.0
+Claire;2;0.0
+Nico;1;0.0
+blusher;2;0.0
+wing;2;0.0
+leggin;1;0.0
+grave;1;0.0
+behind;1;0.0
+sleeve;1;0.0
+hand;1;0.0
+whiz;1;0.0
+grumpy;1;0.0
+Cecil;1;0.0
+library;1;0.0
+och;3;0.001
+joy;1;0.0
+though;1;0.0
+downhill;1;0.0
+Godmother;1;0.0
+either;1;0.0
+snake;1;0.0
+rattle;1;0.0
+mixer;1;0.0
+disco;1;0.0
+fur;1;0.0
+McLean;1;0.0
+st;2;0.0
+hi;3;0.001
+curl;1;0.0
+swimmer;2;0.0
+ding;1;0.0
+plenty;2;0.0
+wheat;1;0.0
+owl;2;0.0
+Mighty;1;0.0
+kno;1;0.0
+September;1;0.0
+Ian;1;0.0
+tower;1;0.0
+sticky;1;0.0
+nappy;1;0.0
+ornament;1;0.0
+bein;1;0.0
+through;1;0.0
+fiddle;1;0.0
+deliver;2;0.0
+same;1;0.0
+faries;1;0.0
+zip;1;0.0
+wooden;1;0.0
+pot;3;0.001
+crown;1;0.0
+initial;1;0.0
+tattoo;1;0.0
+straw;1;0.0
+stiff;1;0.0
+Sporty;1;0.0
+any;1;0.0
+altogether;1;0.0
+early;1;0.0
+pack;2;0.0
+Jordan;2;0.0
+Terradaon;1;0.0
+sauce;2;0.0
+pajama;1;0.0
+triangle;2;0.0
+mish;1;0.0
+Jims;1;0.0
+woodpecker;1;0.0
+spank;1;0.0
+bam;1;0.0
+Tyrannoxxx;1;0.0
+Hannah;1;0.0
+humour;1;0.0
+gang;1;0.0
+stripy;1;0.0
+still;1;0.0
+kill;4;0.001
+short;1;0.0
+trick;2;0.0
+trailor;1;0.0
+sail;1;0.0
+head;2;0.0
+Starwars;1;0.0
+shield;1;0.0
+stroke;1;0.0
+oo;1;0.0
+carriage;1;0.0
+creamy;1;0.0
+daisy;1;0.0
+calendar;1;0.0
+win;1;0.0
+rascal;1;0.0
+Tank;1;0.0
+pram;2;0.0
+wave;1;0.0
+stain;1;0.0
+Jess;2;0.0
+hah;1;0.0
+bumhead;2;0.0
+van;2;0.0
+trip;1;0.0
+Tilly;2;0.0
+crusty;1;0.0
+nineteen;2;0.0
+Bens;1;0.0
+steam;1;0.0
+pepper;1;0.0
+windy;1;0.0
+angel;1;0.0
+anyway;2;0.0
+morning;1;0.0
+didn;1;0.0
+trainman;1;0.0
+dingo;1;0.0
+crock;1;0.0
+nightmare;1;0.0
+Mc;1;0.0
+never;1;0.0
+McDonalds;1;0.0
+board;1;0.0
+grocery;1;0.0
+half;2;0.0
+float;1;0.0
+cherry;1;0.0
+Noddy;3;0.001
+frame;1;0.0
+Topsey;1;0.0
+Tyranna;1;0.0
+Mice;1;0.0
+winky;1;0.0
+Valley;1;0.0
+trouble;1;0.0
+Heather;1;0.0
+while;2;0.0
+insect;1;0.0
+chemist;1;0.0
+necklace;1;0.0
+Jade;1;0.0
+Jurassic;2;0.0
+Roy;1;0.0
+nice;1;0.0
+Nic;2;0.0
+terrible;1;0.0
+ii;1;0.0
+dead;2;0.0
+site;1;0.0
+properly;1;0.0
+Glendhu;1;0.0
+badge;1;0.0
+smasher;1;0.0
+low;1;0.0
+seep;1;0.0
+goodbye;1;0.0
+Nana;1;0.0
+wan;2;0.0
+Johnathan;1;0.0
+track;1;0.0
+hy;1;0.0
+plastic;1;0.0
+Ballina;1;0.0
+strike;1;0.0
+sharp;1;0.0
+jelly;1;0.0
+side;1;0.0
+alien;1;0.0
+Norman;1;0.0
+pokey;1;0.0
+quite;1;0.0
+ahhah;1;0.0
+yard;1;0.0
+pushy;1;0.0
+Ernie;1;0.0
+safe;2;0.0
+pincher;1;0.0
+waggly;1;0.0
+breeze;1;0.0
+Xman;1;0.0
+Petrie;1;0.0
+doc;2;0.0
+Balou;2;0.0
+billion;1;0.0
+himself;1;0.0
+uniform;1;0.0
+aunt;2;0.0
+Wendy;1;0.0
+tray;1;0.0
+heavy;2;0.0
+reach;1;0.0
+sand;1;0.0
+scarf;1;0.0
+magic;2;0.0
+gangies;1;0.0
+wallpaper;2;0.0
+sharpen;1;0.0
+idea;1;0.0
+tipper;1;0.0
+sh;2;0.0
+quickly;1;0.0
+even;1;0.0
+Okey;1;0.0
+laughin;2;0.0
+freezer;1;0.0
+ruff;1;0.0
+sardine;1;0.0
+brolly;1;0.0
+Chr;1;0.0
+messy;1;0.0
+pill;1;0.0
+Katrina;1;0.0
+swi;1;0.0
+pip;1;0.0
+Dalmatian;2;0.0
+chat;1;0.0
+Brek;1;0.0
+shelf;1;0.0
+beanbag;1;0.0
+stair;1;0.0
+hiya;1;0.0
+rooster;1;0.0
+blade;1;0.0
+herself;1;0.0
+hee;1;0.0
+chick;1;0.0
+Caspar;1;0.0
+tissue;1;0.0
+fudge;1;0.0
+pool;1;0.0
+Rider;1;0.0
+z;1;0.0
+beer;1;0.0
+dock;1;0.0
+comb;2;0.0
+golf;1;0.0
+Daffy;1;0.0
+bride;1;0.0
+Kim;1;0.0
+as_if;1;0.0
+upside;2;0.0
+Evan;2;0.0
+music;1;0.0
+below;1;0.0
+haw;1;0.0
+tel;1;0.0
+healthy;1;0.0
+bracelet;1;0.0
+drill;1;0.0
+bangle;1;0.0
+Tom;1;0.0
+losin;1;0.0
+everything;1;0.0
+picker;1;0.0
+vegetable;1;0.0
+cracker;1;0.0
+shake;2;0.0
+Sticklebricks;2;0.0
+grind;1;0.0
+hose;1;0.0
+Portstewart;1;0.0
+jewelery;1;0.0
+Daniel;1;0.0
+Cinders;1;0.0
+Turtles;2;0.0
+Follis;1;0.0
+tyra;1;0.0
+farm;1;0.0
+v;1;0.0
+readin;1;0.0
+loft;1;0.0
+Kelsey;1;0.0
+bubbly;1;0.0
+shape;1;0.0
+Lisburn;1;0.0
+wantin;1;0.0
+ribbon;1;0.0
+til;1;0.0
+din;1;0.0
+Robin;1;0.0
+friendly;1;0.0
+those;1;0.0
+hamster;1;0.0
+pacifier;1;0.0
+alphabet;2;0.0
+greedy;1;0.0
+size;1;0.0
+bit;1;0.0
+Laura;1;0.0
+Rhinos;1;0.0
+ruin;1;0.0
+April;1;0.0
+Katie;1;0.0
+cap;1;0.0
+stupid;1;0.0
+pasta;1;0.0
+such;1;0.0
+Mans;1;0.0
+sleigh;1;0.0
+workmate;1;0.0
+coat;1;0.0
+lend;1;0.0
+K;2;0.0
+bubble;1;0.0
+Girls;1;0.0
+dip;1;0.0
+Amy;2;0.0
+annoy;2;0.0
+toddler;1;0.0
+burp;2;0.0
+gimme;1;0.0
+imitate;1;0.0
+veil;1;0.0
+badder;1;0.0
+pinch;1;0.0
+card;1;0.0
+spare;1;0.0
+anything;1;0.0
+hospital;1;0.0
+hedgehog;1;0.0
+special;1;0.0
+bumble;1;0.0
+lighter;1;0.0
+horrible;1;0.0
+excuse;1;0.0
+shootin;1;0.0
+point;2;0.0
+fairy;1;0.0
+Poppin;1;0.0
+Rugrats;1;0.0
+pre;1;0.0
+tractor;1;0.0
+piggie;1;0.0
+Primary;1;0.0
+Mario;1;0.0
+next;1;0.0
+giddyup;1;0.0
+gown;1;0.0
+appetite;1;0.0
+Hammy;1;0.0
+collar;1;0.0
+walkin;1;0.0
+dolphin;1;0.0
+itchy;1;0.0
+Peggy;1;0.0
+Postie;1;0.0
+Teradactyl;1;0.0
+bug;1;0.0
+goody;2;0.0
+fefihohoha;1;0.0
+longer;1;0.0
+pussycat;1;0.0
+Nooo;1;0.0
+medicine;1;0.0
+stone;1;0.0
+lik;1;0.0
+Dematrons;1;0.0
+ss;1;0.0
+Seacat;1;0.0
+Barbies;1;0.0
+dwarf;1;0.0
+heart;1;0.0
+wire;1;0.0
+Mummies;1;0.0
+eight;1;0.0
+diamond;1;0.0
+swinger;1;0.0
+nanananana;1;0.0
+pl;1;0.0
+rollerskates;1;0.0
+Playtime;1;0.0
+except;1;0.0
+Batmans;1;0.0
+jew;1;0.0
+Ginger;2;0.0
+cardigan;1;0.0
+rainbow;1;0.0
+traffic;1;0.0
+Batman;2;0.0
+Hermit;1;0.0
+along;2;0.0
+dart;1;0.0
+grrr;1;0.0
+pony;1;0.0
+tool;2;0.0
+rac;1;0.0
+suitcase;1;0.0
+Jane;1;0.0
+bash;1;0.0
+cloud;1;0.0
+outfit;1;0.0
+Tweety;1;0.0
+fifty;1;0.0
+skirt;1;0.0
+pa;1;0.0
+sky;1;0.0
+shoutin;1;0.0
+slidin;1;0.0
+Lego;1;0.0
+McKeever;1;0.0
+arrive;1;0.0
+ponytail;1;0.0
+another;1;0.0
+workbook;1;0.0
+matter;1;0.0
+taxi;1;0.0
+builder;1;0.0
+doodle;1;0.0
+borrow;1;0.0
+bar;1;0.0
+twen;1;0.0
+dedede;1;0.0
+cement;1;0.0
+roar;1;0.0
+felt;2;0.0
+hall;1;0.0
+Schmeichel;1;0.0
+cot;1;0.0
+doydoydoy;1;0.0
+themselves;1;0.0
+beetle;1;0.0
+Mr;1;0.0
+argh;1;0.0
+coal;1;0.0
+Salou;1;0.0
+yee;1;0.0
+swimmed;1;0.0
+tv;1;0.0
+baldy;1;0.0
+mate;1;0.0
+control;1;0.0
+uncle;1;0.0
+wallet;1;0.0
+sun;1;0.0
+page;1;0.0
+helmet;1;0.0
+until;1;0.0
+baa;1;0.0
+tea;1;0.0
+tember;1;0.0
+ra;1;0.0
+tyrrano;1;0.0
+list;1;0.0
+Mummys;1;0.0
+tongue;1;0.0
+Snowdon;1;0.0
+Lily;1;0.0
+record;1;0.0
+Stripe;1;0.0
+apron;1;0.0
+James;1;0.0
+carnel;1;0.0
+everytime;1;0.0
+jig;1;0.0
+aeroplane;1;0.0
+yourselves;1;0.0
+shush;1;0.0
+Steven;2;0.0
+re;1;0.0
+bib;1;0.0
+peten;1;0.0
+Greta;1;0.0
+dragon;1;0.0
+six;1;0.0
+God;1;0.0
+ho;1;0.0
+poor;1;0.0
+Jenny;1;0.0
+Hunch;1;0.0
+Dinah;1;0.0
+countin;1;0.0
+really;1;0.0
+William;1;0.0
+Claus;1;0.0
+normal;1;0.0
+Brian;1;0.0
+Desi;1;0.0
+dragonfly;1;0.0
+Duke;1;0.0
+plop;1;0.0
+tra;1;0.0
+rice;1;0.0
+belong;1;0.0
+wicked;1;0.0
+moose;1;0.0
+snack;1;0.0
+fry;1;0.0
+Ventura;1;0.0
+fireplace;1;0.0
+prescription;1;0.0
+pole;1;0.0
+clap;2;0.0
+each_other;1;0.0
+Brontosaurus;1;0.0
+next_to;1;0.0
+drown;1;0.0
+cub;1;0.0
+why;1;0.0
+Tyrannosaurus;1;0.0
+gingerbread;1;0.0
+sake;1;0.0
+plane;1;0.0
+Pingew;1;0.0
+stray;1;0.0
+fishin;1;0.0
+far;1;0.0
+glove;1;0.0
+before;1;0.0
+truth;1;0.0
+infinity;1;0.0
+fluffy;1;0.0
+shelve;1;0.0
+practice;1;0.0
+load;1;0.0
+remote;1;0.0
+Hood;1;0.0
+instead;1;0.0
+cookie;1;0.0
+wipe;1;0.0
+rope;1;0.0
+Sesame;1;0.0
+fireball;1;0.0
+careful;1;0.0
+ch;1;0.0
+America;1;0.0
+harm;1;0.0
+Willy;1;0.0
+Jamie;1;0.0
+Dictionary;1;0.0
+binoculars;1;0.0
+trolley;1;0.0
+under;1;0.0
+pin;1;0.0
+Ashley;1;0.0
+sunflower;1;0.0
+ham;1;0.0
+eee;1;0.0
+husband;1;0.0
+Mogli;1;0.0
+toybox;1;0.0
+bus;1;0.0
+everyb;1;0.0
+Kenneth;1;0.0
+Missus;1;0.0
+perfume;2;0.0
+necessity;1;0.0
+rotten;1;0.0
+Menace;1;0.0
+sponge;1;0.0
+wish;1;0.0
+hankie;1;0.0
+nightie;1;0.0
+Lindsay;1;0.0
+Rex;1;0.0
+Skippy;1;0.0
+rainy;1;0.0
+motor;1;0.0
+ticket;1;0.0
+boat;1;0.0
+ta;1;0.0
+bother;1;0.0
+each;1;0.0
+goal;1;0.0
+onto;1;0.0
+biscuit;1;0.0
+share;1;0.0
+truck;1;0.0
+li;1;0.0
+hotel;1;0.0
+Bible;1;0.0
+Poppy;1;0.0
+Jennifers;1;0.0
+mash;1;0.0
+poke;1;0.0
+gorilla;1;0.0
+photo;1;0.0
+coo;1;0.0

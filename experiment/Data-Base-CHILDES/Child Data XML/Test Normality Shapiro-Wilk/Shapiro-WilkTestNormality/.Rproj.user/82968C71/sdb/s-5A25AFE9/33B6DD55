@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "##\n## 24/06/2017\n##\n##\n \n## Importar dados\n## Antes de importar, verifique se o caminho dos seus arquivo estão corretos.\n\n## Ultilizando read.table()\n\n#belfast <- read.table(\"~/Estatistica/Shapiro-Wilk Test Normality/csv/word_frequency_canonical_sentence_Belfast_by_commonality.csv\", h=T)\n#cruttenden <- read.table(\"~/Estatistica/Shapiro-Wilk Test Normality/csv/word_frequency_canonical_sentence_Cruttenden_by_commonality.csv\", h=T)\n#manchester <- read.table(\"~/Estatistica/Shapiro-Wilk Test Normality/csv/word_frequency_canonical_sentence_Manchester_by_commonality.csv\", h=T)\n#tommerdahl <- read.table(\"~/Estatistica/Shapiro-Wilk Test Normality/csv/word_frequency_canonical_sentence_Tommerdahl_by_commonality.csv\", h=T)\n\n# Ultilizando read.csv()\n\nbelfast <- read.csv(\"~/Estatistica/Shapiro-WilkTestNormality/csv/word_frequency_canonical_sentence_Belfast_by_commonality.csv\", sep=\";\")\ncruttenden <- read.csv(\"~/Estatistica/Shapiro-WilkTestNormality/csv/word_frequency_canonical_sentence_Cruttenden_by_commonality.csv\", sep=\";\")\nmanchester <- read.csv(\"~/Estatistica/Shapiro-WilkTestNormality/csv/word_frequency_canonical_sentence_Manchester_by_commonality.csv\", sep=\";\")\ntommerdahl <- read.csv(\"~/Estatistica/Shapiro-WilkTestNormality/csv/word_frequency_canonical_sentence_Tommerdahl_by_commonality.csv\", sep=\";\")\n\n# Visualizar os dados\nView(belfast)\nView(cruttenden)\nView(manchester)\nView(tommerdahl)\n\n# Executa o Test Shapiro-Wilk\n# Verifica se a amostra pertence a uma população normal.\nshapiro.test(belfast$frequency)\nshapiro.test(cruttenden$frequency)\nshapiro.test(manchester$frequency)\nshapiro.test(tommerdahl$frequency)\n\n\n",
+    "created" : 1498305369482.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2924867286",
+    "id" : "33B6DD55",
+    "lastKnownWriteTime" : 1498322128,
+    "last_content_update" : 1498322128206,
+    "path" : "~/Estatistica/Shapiro-Wilk Test Normality/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

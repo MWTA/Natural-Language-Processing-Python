@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1498322397529.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3C21C9B9",
+    "lastKnownWriteTime" : 73422504,
+    "last_content_update" : 1498322397529,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "91C164D1",
+        "caption" : "tommerdahl",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tommerdahl&cache_key=91C164D1",
+        "displayedObservations" : 1445,
+        "environment" : "",
+        "object" : "tommerdahl",
+        "preview" : 0,
+        "totalObservations" : 1445,
+        "variables" : 3
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

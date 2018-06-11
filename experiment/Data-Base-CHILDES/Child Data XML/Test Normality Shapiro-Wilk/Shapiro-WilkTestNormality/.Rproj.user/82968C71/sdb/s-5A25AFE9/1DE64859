@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1498322390429.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1DE64859",
+    "lastKnownWriteTime" : 8030594799109144575,
+    "last_content_update" : 1498322390429,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "641D672D",
+        "caption" : "cruttenden",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cruttenden&cache_key=641D672D",
+        "displayedObservations" : 909,
+        "environment" : "",
+        "object" : "cruttenden",
+        "preview" : 0,
+        "totalObservations" : 909,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

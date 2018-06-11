@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1498322386180.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A7759E55",
+    "lastKnownWriteTime" : 2531904936346648576,
+    "last_content_update" : 1498322386180,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ECAA473C",
+        "caption" : "belfast",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=belfast&cache_key=ECAA473C",
+        "displayedObservations" : 2439,
+        "environment" : "",
+        "object" : "belfast",
+        "preview" : 0,
+        "totalObservations" : 2439,
+        "variables" : 3
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

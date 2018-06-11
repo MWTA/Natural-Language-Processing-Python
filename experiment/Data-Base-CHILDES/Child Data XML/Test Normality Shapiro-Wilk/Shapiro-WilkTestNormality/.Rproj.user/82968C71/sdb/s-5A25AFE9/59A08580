@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1498322393804.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "59A08580",
+    "lastKnownWriteTime" : 4294967295,
+    "last_content_update" : 1498322393804,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "186097CB",
+        "caption" : "manchester",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=manchester&cache_key=186097CB",
+        "displayedObservations" : 4082,
+        "environment" : "",
+        "object" : "manchester",
+        "preview" : 0,
+        "totalObservations" : 4082,
+        "variables" : 3
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
